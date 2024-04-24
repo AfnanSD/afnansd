@@ -11,7 +11,7 @@
 
 
 ### Let's Connect
-📫 You can reach me at:  <a href="https://linkedin.com/in/afnan aldajani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afnan aldajani" height="20" width="30" /></a>
+📫 You can reach me at:  <a href="https://linkedin.com/in/afnan-aldajani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afnan aldajani" height="20" width="30" /></a>
 
 <br/> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afnansd&" alt="afnansd" /></p>
