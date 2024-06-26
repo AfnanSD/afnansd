@@ -6,7 +6,7 @@
 
 ### Skills and Technologies
 🌱 Languages: Java, Python, JavaScript, HTML/CSS, Dart <br/> 
-🔭 Frameworks: React.js, Flutter <br/> 
+🔭 Frameworks: Flutter, React Native, React.js <br/> 
 🧠 Databases: MongoDB, MySQL, Firebase Cloud Firestore
 
 
